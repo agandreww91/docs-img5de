@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-4qca2t.affordablehealthcoverage.online/sitemap.xml
